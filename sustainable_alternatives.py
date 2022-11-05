@@ -107,6 +107,7 @@ def get_alternatives(product_code, top_k=3):
     df_top_k["Energy"] = energy_differs
     df_top_k["Names"] = names
     df_top_k["CO2eff"] = co2eff
+    df_top_k["avg_eff_score"] = [material_data.Score.mean(), ] * len(co2eff)
     return df_top_k.to_json(orient='records')
 
 
