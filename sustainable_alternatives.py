@@ -1,25 +1,119 @@
 import json
 
 import pandas as pd
+import numpy as np
+import math
+from sentence_transformers import SentenceTransformer
 
 
-def get_alternatives(name):
+def cosine_similarity(x, y):
+    return np.dot(x, y) / (np.linalg.norm(x) * np.linalg.norm(y))
+
+
+def get_sheet_data():
+    return pd.read_csv("data/sheets.csv", sep=";")
+
+
+def get_material_data():
+    material_data = pd.read_csv("data/material.csv", sep=";")[["Material", "Embodied Energy", "Carbon Footprint", "Water Usage"]]
+    material_data.at[6, "Material"] = "Galvanized steel"
+
+    material_data['Embodied Energy'] = pd.to_numeric(material_data['Embodied Energy'].map(lambda x: x.replace(",", ".")))
+    Embodied_Energy = material_data['Embodied Energy']
+    energy_item_size = (Embodied_Energy.max() - Embodied_Energy.min()) / 5
+    Embodied_Energy = (Embodied_Energy - Embodied_Energy.min()) / (Embodied_Energy.max() - Embodied_Energy.min())
+
+    material_data['Carbon Footprint'] = pd.to_numeric(material_data['Carbon Footprint'].map(lambda x: x.replace(",", ".")))
+    Carbon_Footprint = material_data['Carbon Footprint']
+    carbon_footprint_item_size = (Carbon_Footprint.max() - Carbon_Footprint.min()) / 5
+    Carbon_Footprint = (Carbon_Footprint - Carbon_Footprint.min()) / (Carbon_Footprint.max() - Embodied_Energy.min())
+
+    material_data['Water Usage'] = pd.to_numeric(material_data['Water Usage'].map(lambda x: x.replace(",", ".")))
+    Water_Usage = material_data['Water Usage']
+    Water_Usage = material_data['Water Usage']
+    water_usage_item_size = (Water_Usage.max() - Water_Usage.min()) / 5
+    Water_Usage = (Water_Usage - Water_Usage.min()) / (Water_Usage.max() - Water_Usage.min())
+
+    material_data['Score'] = 1 - (Embodied_Energy + Carbon_Footprint + Water_Usage) / 3
+    return material_data, energy_item_size, carbon_footprint_item_size, water_usage_item_size
+
+def get_product_code_2_description(sheets_data):
+    important_columns = ["Code", "Class", "Name", "Weight", "WeightUnit", "Length", "Height", "Width", "Thickness", "Diameter", "ShortDescription"]
+    sheets_data_filetred = sheets_data[important_columns]
+    sheets_data_filetred['ShortDescription'] = sheets_data_filetred['ShortDescription'].apply(lambda x: x.replace("\r\n\r\n", ", "))
+    
+    product_code_2_description = {}
+    for sheet in sheets_data_filetred.iterrows():
+        sheet = sheet[1]
+        sheet_str = "; ".join([f"{col} - {val}" for col, val in sheet.items()])
+        product_code_2_description[sheet.Code] = sheet_str
+    return product_code_2_description
+    
+
+def get_alternatives(product_code, top_k=3):    
+    sheets_data = get_sheet_data()
+    # print("Here:", len(sheets_data))
+    # raise
+    product_code_2_description = get_product_code_2_description(sheets_data)
+    material_data, energy_item_size, carbon_footprint_item_size, water_usage_item_size = get_material_data()
+    
+    model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
+    src_desc = product_code_2_description[product_code]
+    
+    # print("Here:", len(product_code_2_description))
+    # raise
+    src_material = sheets_data[sheets_data["Code"] == product_code].Material.to_list()[0]
+    df = pd.DataFrame(columns=["Code", "cos", "eff_score", "material"]) 
+    for code in product_code_2_description:
+        cur_material = sheets_data[sheets_data["Code"] == code].Material.to_list()[0]
+        if cur_material not in [src_material, "Non-rusting steel", ]:
+            product_desc = product_code_2_description[code]
+            sentences = [src_desc, product_desc]
+            embeddings = model.encode(sentences)
+            cos_sim = cosine_similarity(*embeddings)
+            eff_score = material_data[material_data["Material"] == cur_material]["Score"].to_list()[0]
+            df.loc[len(df)]=[code, cos_sim, eff_score, cur_material]
+    df = df.sort_values(by=["cos"], ascending=False)[1:]
+
+    df_with_best_materials = pd.DataFrame(columns=["Code", "cos", "eff_score", "material"])
+    for material in set(df.material):
+        sub_df = df[df.material == material]
+        best_sample = sub_df[sub_df.cos == sub_df.cos.max()].values[0]
+        df_with_best_materials.loc[len(df_with_best_materials)] = list(best_sample)
+
+    df_with_best_materials = df_with_best_materials.sort_values(by=["cos", "eff_score"], ascending=False)
+    df_top_k = df_with_best_materials[:top_k]
+    df2 = pd.DataFrame({'Code': product_code, 'cos': 1, 'eff_score': material_data[material_data["Material"] == src_material]["Score"].to_list()[0], "material": src_material}, index=[0])
+    df_top_k = df2.append(df_top_k,ignore_index = True)
+    
+    images = [sheets_data[sheets_data["Code"] == c].SmallImageURL.to_list()[0] for c in df_top_k.Code]
+    urls = [f"https://www.cronvall.fi/epages/CronvallShop.sf/sec89130f6a70/?ObjectPath=/Shops/CronvallShop/Products/{c}" for c in df_top_k.Code]
+    prices = [sheets_data[sheets_data["Code"] == c].Price.to_list()[0].split(".")[0] for c in df_top_k.Code]
+    names = [sheets_data[sheets_data["Code"] == c].Name.to_list()[0] for c in df_top_k.Code]
+    trees_differs = [math.ceil(material_data[material_data["Material"] == m]["Carbon Footprint"].to_list()[0] /  carbon_footprint_item_size) for m in df_top_k.material]
+    trees_differs = [i - trees_differs[0] for i in trees_differs] # If > 0 - RED
+    battle_differs = [math.ceil(material_data[material_data["Material"] == m]["Water Usage"].to_list()[0] /  water_usage_item_size) for m in df_top_k.material]
+    battle_differs = [i - battle_differs[0] for i in battle_differs] # If > 0 - RED
+    energy_differs = [math.ceil(material_data[material_data["Material"] == m]["Embodied Energy"].to_list()[0] /  energy_item_size) for m in df_top_k.material]
+    energy_differs = [i - energy_differs[0] for i in energy_differs] # If > 0 - RED
+    energy_differs = [i - energy_differs[0] for i in energy_differs] # If > 0 - RED
+    co2eff = [material_data[material_data["Material"] == m]["Carbon Footprint"].to_list()[0] for m in df_top_k.material]
+
+    df_top_k["Images"] = images
+    df_top_k["Urls"] = urls
+    df_top_k["Prices"] = prices
+    df_top_k["Trees"] = trees_differs
+    df_top_k["Bottle"] = battle_differs
+    df_top_k["Energy"] = energy_differs
+    df_top_k["Names"] = names
+    df_top_k["CO2eff"] = co2eff
+    return df_top_k.to_json(orient='records')
+
+
+def get_info(id):
     df = pd.read_csv('data/sheets.csv', sep=';')
-    df = df.drop(df.columns[0], axis=1)
+    df = df[df['Code'] == id]
 
-    df: pd.DataFrame = df.iloc[0:3]
-    if len(json.loads(get_info(name))) > 0:
-        df['Co2Em_diff'] = df['Co2Em'] - json.loads(get_info(name))[0]['Co2Em']
     return df.to_json(orient='records')
 
-
-def get_info(name):
-    df = pd.read_csv('data/sheets.csv', sep=';')
-
-    df = df[df['Name'] == name]
-
-    return df.to_json(orient='records')
-
-
-print(get_alternatives('Kuumavalssattu 1D RST levy 12.0x1500x3000mm'))
 
