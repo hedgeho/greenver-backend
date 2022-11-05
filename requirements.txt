@@ -1,0 +1,5 @@
+numpy 
+pandas
+sentence_transformers
+flask
+flask_cors
