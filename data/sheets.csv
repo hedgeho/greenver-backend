@@ -1,4 +1,263 @@
-;index;Class;Code;Price;SalesUnit;Weight;WeightUnit;Length;Height;Width;Thickness;Diameter;Name;ShortDescription;Description;SmallImageURL;ImageURL;Material;Co2Em;CVCF;Waste Factor;Reuse;Recycled;Energy Recovery;Final Disposal;Hazardous Waste;Recycled Share
+;Unnamed: 0;Class;Code;Price;SalesUnit;Weight;WeightUnit;Length;Height;Width;Thickness;Diameter;Name;ShortDescription;Description;SmallImageURL;ImageURL;Material;Co2Em;CVCF;Waste Factor;Reuse;Recycled;Energy Recovery;Final Disposal;Hazardous Waste;Recycled Share
+0;1;Metal sheets;1016891;145;squaremetre;16.08;sheet;1000;;2000.00.00;1;;Messinkilevy 1x1000x2000mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova
+
+Paino per levy: 16.8kg
+
+Standardi MS63 messinki
+
+
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/62C5/DB4C/3C6C/CAFD/0A28/104A/E7CB/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/62C5/DB4C/3C6C/CAFD/0A28/104A/E7CB/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+1;2;Metal sheets;1016934;269.04.00;squaremetre;33.06.00;sheet;1000;;2000.00.00;2;;Messinkilevy 2x1000x2000mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova
+
+Paino per levy: 33.6kg
+
+Standardi MS63 messinki
+
+
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/64E2/131D/7F40/44E0/0A28/104A/93B0/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/64E2/131D/7F40/44E0/0A28/104A/93B0/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+2;3;Metal sheets;1027897;371.04.00;squaremetre;20.04;sheet;600;;2000.00.00;2;;Messinkilevy 2x600x2000mm;"Messinkilevy
+
+Seos: CW612N, ei suojakalvoa
+
+kova(Kaiverrettavissa)";"Messinkilevy
+
+Seos: CW612N(sis. lyijyä)
+
+kova(Kaiverrettavissa)
+
+Paino per levy: 20.4kg";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6675/D031/1041/42B6/0A28/104A/596C/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6675/D031/1041/42B6/0A28/104A/596C/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+3;4;Metal sheets;1016959;404.01.00;squaremetre;50.04.00;sheet;1000;;2000.00.00;3;;Messinkilevy 3x1000x2000mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova
+
+Paino per levy: 50.4kg
+
+Standardi MS63 messinki
+
+
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/65B0/6F8C/ABC7/BF29/0A28/104A/C121/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/65B0/6F8C/ABC7/BF29/0A28/104A/C121/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+4;5;Metal sheets;1027763HR;695;squaremetre;68;sheet;1000;;2000.00.00;4;;Messinkilevy 4x1000x2000mm;"Messinkilevy
+
+Seos: CW612N, ei suojakalvoa
+
+kova (Kaiverrettavissa)";"Messinkilevy
+
+Seos: CW612N (sis. lyijyä)
+
+kova(Kaiverrettavissa)
+
+Paino per levy: 68kg";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+5;6;Metal sheets;1027763;761.03.00;squaremetre;41;sheet;600;;2000.00.00;4;;Messinkilevy 4x600x2000mm;"Messinkilevy
+
+Seos: CW612N, ei suojakalvoa
+
+kova(Kaiverrettavissa)";"Messinkilevy
+
+Seos: CW612N(sis. lyijyä)
+
+kova(Kaiverrettavissa)
+
+Paino per levy: 41kg";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6675/D031/1041/42B6/0A28/104A/596C/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6675/D031/1041/42B6/0A28/104A/596C/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+6;7;Metal sheets;1027764HR;870;squaremetre;85;sheet;1000;;2000.00.00;5;;Messinkilevy 5x1000x2000mm;"Messinkilevy
+
+Seos: CW612N, ei suojakalvoa
+
+kova (Kaiverrettavissa)";"Messinkilevy
+
+Seos: CW612N (sis. lyijyä)
+
+kova(Kaiverrettavissa)
+
+Paino per levy: 85kg";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+7;8;Metal sheets;1027765HR;1382;squaremetre;135;sheet;1000;;2000.00.00;8;;Messinkilevy 8x1000x2000mm;"Messinkilevy
+
+Seos: CW612N, ei suojakalvoa
+
+kova (Kaiverrettavissa)";"Messinkilevy
+
+Seos: CW612N (sis. lyijyä)
+
+kova(Kaiverrettavissa)
+
+Paino per levy: 135kg";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6B68/A0BA/0EF7/2EFA/0A28/104A/F01C/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+8;9;Metal sheets;1050719J;1251.01.00;squaremetre;53;sheet;1250;;2500.00.00;2;;Messinkilevy happivapaa 2x1250x2500mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova + kalvo yhdellä puolella";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova +kalvo yhdellä puolella
+
+Paino per levy: 53kg
+
+Standardi MS63 messinki
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5EB1/4E0C/D9D7/4FB0/6C87/0A28/105F/AC21/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5EB1/4E0C/D9D7/4FB0/6C87/0A28/105F/AC21/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+9;10;Metal sheets;1202503;109.06.00;squaremetre;0,511111111;sheet;1000;;2000.00.00;0.07;;Messinkilevy kalvolla 0.7x1000x2000mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova + kalvo yhdellä puolella";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova + kalvo yhdellä puolella
+
+Paino per levy: 11.76kg
+
+Standardi MS63 messinki
+
+
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/59D6/0420/F3D3/E187/0A28/104A/7447/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/59D6/0420/F3D3/E187/0A28/104A/7447/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+10;11;Metal sheets;1025825;126.01.00;squaremetre;13.44;sheet;1000;;2000.00.00;0.08;;Messinkilevy kalvolla 0.8x1000x2000mm;"Messinkilevy
+
+Seos: CW508L
+
+½ kova + kalvo yhdellä puolella";"Messinkilevy
+
+Seos: CW508L (CuZn37)
+
+½ kova + kalvo yhdellä puolella
+
+Paino per levy: 13.44kg
+
+Standardi MS63 messinki
+
+
+
+Lyijyttömiä messinkejä voidaan myös nimetä Ms**-lyhenteellä, jolloin ** korvataan kuparin prosenttiosuudella: esimerkiksi Ms63 sisältää 63% kuparia.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6235/3588/F301/6A40/0A28/104A/E7EC/messinkilevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E1C/6235/3588/F301/6A40/0A28/104A/E7EC/messinkilevy_m.jpg;Brass;0.00;0.00;0.00;0;0;0;0;0;0
+11;12;Metal sheets;104468;31.09.00;squaremetre;22.51;piece;3050;;2050.00.00;3;;Polykarboonaattilevy Kirkas 3x3050x2050mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 3x3050x2050mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 3x3050x2050mm
+
+Kirkas peruslaatu
+
+Paino: 22.51kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F8F/DBB9/DF3A/2935/CB5B/0A28/105F/B1E5/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F8F/DBB9/DF3A/2935/CB5B/0A28/105F/B1E5/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
+12;13;Metal sheets;104480;42.06.00;squaremetre;12;piece;2050;;1250.00.00;4;;Polykarboonaattilevy Kirkas 4x2050x1250mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 4x2050x1250mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 4x2050x1250mm
+
+Kirkas peruslaatu
+
+Paino: 12kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5FA2/6A94/1885/AD9F/F901/0A28/105F/90B3/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5FA2/6A94/1885/AD9F/F901/0A28/105F/90B3/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
+13;14;Metal sheets;104469;42.06.00;squaremetre;30;piece;3050;;2050.00.00;4;;Polykarboonaattilevy Kirkas 4x3050x2050mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 4x3050x2050mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 4x3050x2050mm
+
+Kirkas peruslaatu
+
+Paino: 30kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FB37/E770/3A27/E123/0A28/105F/D92D/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FB37/E770/3A27/E123/0A28/105F/D92D/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
+14;15;Metal sheets;104481;53.02.00;squaremetre;15;piece;2050;;1250.00.00;5;;Polykarboonaattilevy Kirkas 5x2050x1250mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 5x2050x1250mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 5x2050x1250mm
+
+Kirkas peruslaatu
+
+Paino: 15kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5FA2/6B1F/2265/BEB1/BCF6/0A28/105F/49C9/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5FA2/6B1F/2265/BEB1/BCF6/0A28/105F/49C9/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
+15;16;Metal sheets;104471;63.07.00;squaremetre;45;piece;3050;;2050.00.00;6;;Polykarboonaattilevy Kirkas 6x3050x2050mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 6x3050x2050mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 6x3050x2050mm
+
+Kirkas peruslaatu
+
+Paino: 45kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FBCE/4E58/B973/69AF/0A28/105F/5F86/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FBCE/4E58/B973/69AF/0A28/105F/5F86/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
+16;17;Metal sheets;104472;85.02.00;squaremetre;60;piece;3050;;2050.00.00;8;;Polykarboonaattilevy Kirkas 8x3050x2050mm;"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 8x3050x2050mm
+
+Kirkas peruslaatu";"Materiaali: Polykarbonaatti (PC)
+
+Mitat: 8x3050x2050mm
+
+Kirkas peruslaatu
+
+Paino: 60kg/kpl
+
+
+
+Polykarbonaattilevyistä voidaan lämpömuovaamalla valmistaa kilpiä, suojaseiniä, koteloita ja muita vastaavia tuotteita, joilta vaaditaan erityistä iskunkestävyyttä.
+
+Rakennusalalla käytetään erittäin keveitä ja iskunkestäviä polykarbonaattikennolevyjä. Niistä valmistetaan katoksia, kattoikkunoita, väli- tai valoseiniä silloin, kun tilaan halutaan valoa, mutta suora läpinäkyvyys ei ole oleellista.";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FCDE/0CB6/9359/00FD/0A28/105F/001D/polykarbonaattilevy_tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5F9F/FCDE/0CB6/9359/00FD/0A28/105F/001D/polykarbonaattilevy_tuotekuva_m.jpg;Polycarbonate;0.00;0.00;0.00;0;0;0;0;0;0
 17;104;Metal sheets;KU10304;1542.09.00;piece;160;piece;1000;;2000.00.00;10.00;;Kuumavalssattu 1D RST levy 10.0x1000x2000mm;"Materiaali: Kuumavalssattu 1DRST AISI304
 
 Koko: 1000x2000mm
@@ -1399,3 +1658,342 @@ Paino 50kg/kpl
 Erinomainen korroosionkestävyys ja sopiva laatu maalaukselle.
 
 Alumiinisinkityt, ainestandardi EN 10346 mukaiset arkit, laadussa DX51D+AZ150NAC";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6278/BFF1/F657/8B39/50C7/0A28/105F/4A50/sinkitty-teraeslevy_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6278/BFF1/F657/8B39/50C7/0A28/105F/4A50/sinkitty-teraeslevy_m.jpg;Galvanized steel;3.10;1.20;1.05;8;90;0;2;0;20
+115;371;Metal sheets;2201101435;33.01.00;piece;12;piece;1000;;2000.00.00;0,052083333;;Teräslevy DC01 AmO 0.75x1000x2000mm;"Teräslevy DC01 AmO
+
+0.75x1000x2000mm
+
+Paino 12kg/kpl
+
+";"Teräslevy DC01 AmO
+
+0.75x1000x2000mm
+
+Paino 12kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+116;372;Metal sheets;2201101446;72.05.00;piece;27;piece;1500;;3000.00.00;0,052083333;;Teräslevy DC01 AmO 0.75x1500x3000mm;"Teräslevy DC01 AmO
+
+0.75x1500x3000mm
+
+Paino 27kg/kpl
+
+";"Teräslevy DC01 AmO
+
+0.75x1500x3000mm
+
+Paino 27kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+117;373;Metal sheets;2201101850;43.04.00;piece;16;piece;1000;;2000.00.00;1.00;;Teräslevy DC01 AmO 1.0x1000x2000mm;"Teräslevy DC01 AmO
+
+1.0x1000x2000mm
+
+Paino 16kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.0x1000x2000mm
+
+Paino 16kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+118;374;Metal sheets;2201102190;67.01.00;piece;25;piece;1250;;2500.00.00;1.00;;Teräslevy DC01 AmO 1.0x1250x2500mm;"Teräslevy DC01 AmO
+
+1.0x1250x2500mm
+
+Paino 25kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.0x1250x2500mm
+
+Paino 25kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+119;375;Metal sheets;2201102020;94.06.00;piece;36;piece;1500;;3000.00.00;1.00;;Teräslevy DC01 AmO 1.0x1500x3000mm;"Teräslevy DC01 AmO
+
+1.0x1500x3000mm
+
+Paino 36kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.0x1500x3000mm
+
+Paino 36kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+120;376;Metal sheets;2201102105;54.03.00;piece;20;piece;1000;;2000.00.00;1.25;;Teräslevy DC01 AmO 1.25x1000x2000mm;"Teräslevy DC01 AmO
+
+1.25x1000x2000mm
+
+Paino 20kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.25x1000x2000mm
+
+Paino 20kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+121;377;Metal sheets;2201102445;83.09.00;piece;31.25.00;piece;1250;;2500.00.00;1.25;;Teräslevy DC01 AmO 1.25x1250x2500mm;"Teräslevy DC01 AmO
+
+1.25x1250x2500mm
+
+Paino 31.25kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.25x1250x2500mm
+
+Paino 31.25kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+122;378;Metal sheets;2201102195;117;piece;45;piece;1500;;3000.00.00;1.25;;Teräslevy DC01 AmO 1.25x1500x3000mm;"Teräslevy DC01 AmO
+
+1.25x1500x3000mm
+
+Paino 45kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.25x1500x3000mm
+
+Paino 45kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+123;379;Metal sheets;2201102360;65.01.00;piece;24;piece;1000;;2000.00.00;1.05;;Teräslevy DC01 AmO 1.5x1000x2000mm;"Teräslevy DC01 AmO
+
+1.5x1000x2000mm
+
+Paino 24kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.5x1000x2000mm
+
+Paino 24kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+124;380;Metal sheets;2201101935;100.07.00;piece;37.05.00;piece;1250;;2500.00.00;1.05;;Teräslevy DC01 AmO 1.5x1250x2500mm;"Teräslevy DC01 AmO
+
+1.5x1250x2500mm
+
+Paino 37.5kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.5x1250x2500mm
+
+Paino 37.5kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+125;381;Metal sheets;2201102530;135.08.00;piece;54;piece;1500;;3000.00.00;1.05;;Teräslevy DC01 AmO 1.5x1500x3000mm;"Teräslevy DC01 AmO
+
+1.5x1500x3000mm
+
+Paino 54kg/kpl
+
+";"Teräslevy DC01 AmO
+
+1.5x1500x3000mm
+
+Paino 54kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+126;382;Metal sheets;2201102615;86.09.00;piece;32;piece;1000;;2000.00.00;2.00;;Teräslevy DC01 AmO 2.0x1000x2000mm;"Teräslevy DC01 AmO
+
+2.0x1000x2000mm
+
+Paino 32kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.0x1000x2000mm
+
+Paino 32kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+127;383;Metal sheets;2201103380;134.03.00;piece;50;piece;1250;;2500.00.00;2.00;;Teräslevy DC01 AmO 2.0x1250x2500mm;"Teräslevy DC01 AmO
+
+2.0x1250x2500mm
+
+Paino 50kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.0x1250x2500mm
+
+Paino 50kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+128;384;Metal sheets;2201103040;180;piece;72;piece;1500;;3000.00.00;2.00;;Teräslevy DC01 AmO 2.0x1500x3000mm;"Teräslevy DC01 AmO
+
+2.0x1500x3000mm
+
+Paino 72kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.0x1500x3000mm
+
+Paino 72kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+129;385;Metal sheets;2201103210;104;piece;40;piece;1000;;2000.00.00;2.05;;Teräslevy DC01 AmO 2.5x1000x2000mm;"Teräslevy DC01 AmO
+
+2.5x1000x2000mm
+
+Paino 40kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.5x1000x2000mm
+
+Paino 40kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+130;386;Metal sheets;2201102785;167.09.00;piece;62.05.00;piece;1250;;2500.00.00;2.05;;Teräslevy DC01 AmO 2.5x1250x2500mm;"Teräslevy DC01 AmO
+
+2.5x1250x2500mm
+
+Paino 62.5kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.5x1250x2500mm
+
+Paino 62.5kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+131;387;Metal sheets;2201103465;225;piece;90;piece;1500;;3000.00.00;2.05;;Teräslevy DC01 AmO 2.5x1500x3000mm;"Teräslevy DC01 AmO
+
+2.5x1500x3000mm
+
+Paino 90kg/kpl
+
+";"Teräslevy DC01 AmO
+
+2.5x1500x3000mm
+
+Paino 90kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+132;388;Metal sheets;2201103550;130.03.00;piece;48;piece;1000;;2000.00.00;3.00;;Teräslevy DC01 AmO 3.0x1000x2000mm;"Teräslevy DC01 AmO
+
+3.0x1000x2000mm
+
+Paino 48kg/kpl
+
+";"Teräslevy DC01 AmO
+
+3.0x1000x2000mm
+
+Paino 48kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+133;389;Metal sheets;2201103635;201.04.00;piece;75;piece;1250;;2500.00.00;3.00;;Teräslevy DC01 AmO 3.0x1250x2500mm;"Teräslevy DC01 AmO
+
+3.0x1250x2500mm
+
+Paino 75kg/kpl
+
+";"Teräslevy DC01 AmO
+
+3.0x1250x2500mm
+
+Paino 75kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+134;390;Metal sheets;2201103805;246.09.00;piece;108;piece;1500;;3000.00.00;3.00;;Teräslevy DC01 AmO 3.0x1500x3000mm;"Teräslevy DC01 AmO
+
+3.0x1500x3000mm
+
+Paino 108kg/kpl
+
+";"Teräslevy DC01 AmO
+
+3.0x1500x3000mm
+
+Paino 108kg/kpl
+
+Kylmävalssattu arkki laadussa DC01 AmO. Toimitetaan suojaöljyttynä, jolloin molemmat pinnat suojataan kevyellä öljyllä. Tämä estää korroosion normaaleissa olosuhteissa kuuden kuukauden ajan tuotteen valmistumisesta tehtaalta. Tuotteen pitkäaikainen varastointi voi aiheuttaa muutoksia mekaanisissa ominaisuuksissa, jolloin tuotteen muokattavuusominaisuudet voivat heikentyä.
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/6274/F27A/E4D1/7456/6189/0A28/105F/2E83/teraeslevy-tuotekuva_m.jpg;Steel;0.00;0.00;0.00;0;0;0;0;0;0
+135;668;Metal sheets;TiGr1;1923;piece;33.08.00;piece;1250;;3000.00.00;2;;Titaanilevy Gr1 2x1250x3000mm;"Materiaali: Titaani Gr1
+
+Koko: 1250x3000mm
+
+Paksuus: 2.0mm";"Materiaali: Titaani Gr1
+
+Koko: 1250x3000mm
+
+Paksuus: 2.0mm
+
+Paino: 33.8kg/kpl
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_m.jpg;Titanium;0.00;0.00;0.00;0;0;0;0;0;0
+136;669;Metal sheets;TiGr2;893;piece;18.07;piece;1000;;2000.00.00;2;;Titaanilevy Gr2 2x1000x2000mm;"Materiaali: Titaani Gr2
+
+Koko: 1000x2000mm
+
+Paksuus: 2.0mm";"Materiaali: Titaani Gr2
+
+Koko: 1000x2000mm
+
+Paksuus: 2.0mm
+
+Paino: 18.7kg/kpl
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_m.jpg;Titanium;0.00;0.00;0.00;0;0;0;0;0;0
+137;670;Metal sheets;TiGr5;1618;piece;18.07;piece;1000;;2000.00.00;2;;Titaanilevy Gr5 2x1000x2000mm;"Materiaali: Titaani Gr5
+
+Koko: 1000x2000mm
+
+Paksuus: 2.0mm";"Materiaali: Titaani Gr5
+
+Koko: 1000x2000mm
+
+Paksuus: 2.0mm
+
+Paino: 18.7kg/kpl
+
+";https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_s.jpg;https://www.cronvall.fi/WebRoot/Cronvall/Shops/CronvallShop/5E62/0177/AF81/1AAB/F811/0A28/105F/179F/RST-levy-cronvall_m.jpg;Titanium;0.00;0.00;0.00;0;0;0;0;0;0
