@@ -98,7 +98,7 @@ def get_alternatives(product_code, top_k=3):
     pro_1 = [material_data[material_data["Material"] == m]["Pro 1"].to_list()[0] for m in df_top_k.material]
     pro_2 = [material_data[material_data["Material"] == m]["Pro 2"].to_list()[0] for m in df_top_k.material]
     con_1 = [material_data[material_data["Material"] == m]["Con 1"].to_list()[0] for m in df_top_k.material]
-    con_2 = [material_data[material_data["Material"] == m]["Con 1"].to_list()[0] for m in df_top_k.material]
+    con_2 = [material_data[material_data["Material"] == m]["Con 2"].to_list()[0] for m in df_top_k.material]
 
     df_top_k["Images"] = images
     df_top_k["Urls"] = urls
