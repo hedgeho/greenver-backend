@@ -99,12 +99,14 @@ def get_alternatives(product_code, top_k=3):
     pro_2 = [material_data[material_data["Material"] == m]["Pro 2"].to_list()[0] for m in df_top_k.material]
     con_1 = [material_data[material_data["Material"] == m]["Con 1"].to_list()[0] for m in df_top_k.material]
     con_2 = [material_data[material_data["Material"] == m]["Con 2"].to_list()[0] for m in df_top_k.material]
+    water = [material_data[material_data["Material"] == m]["Water Usage"].to_list()[0] for m in df_top_k.material]
 
     df_top_k["Images"] = images
     df_top_k["Urls"] = urls
     df_top_k["Prices"] = prices
     df_top_k["Trees"] = trees_differs
     df_top_k["Bottle"] = battle_differs
+    df_top_k["Water"] = water
     df_top_k["Energy"] = energy_differs
     df_top_k["Names"] = names
     df_top_k["CO2eff"] = co2eff
@@ -113,6 +115,7 @@ def get_alternatives(product_code, top_k=3):
     df_top_k["pro_2"] = pro_2
     df_top_k["con_1"] = con_1
     df_top_k["con_2"] = con_2
+    df_top_k["Water"] = water
     return df_top_k.to_json(orient='records')
 
 
