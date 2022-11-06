@@ -100,6 +100,7 @@ def get_alternatives(product_code, top_k=3):
     con_1 = [material_data[material_data["Material"] == m]["Con 1"].to_list()[0] for m in df_top_k.material]
     con_2 = [material_data[material_data["Material"] == m]["Con 1"].to_list()[0] for m in df_top_k.material]
     water = [material_data[material_data["Material"] == m]["Water Usage"].to_list()[0] for m in df_top_k.material]
+    energy = [material_data[material_data["Material"] == m]["Embodied Energy"].to_list()[0] for m in df_top_k.material]
 
     df_top_k["Images"] = images
     df_top_k["Urls"] = urls
@@ -107,7 +108,8 @@ def get_alternatives(product_code, top_k=3):
     df_top_k["Trees"] = trees_differs
     df_top_k["Bottle"] = battle_differs
     df_top_k["Water"] = water
-    df_top_k["Energy"] = energy_differs
+    df_top_k["Homes"] = energy_differs
+    df_top_k["Energy"] = energy
     df_top_k["Names"] = names
     df_top_k["CO2eff"] = co2eff
     df_top_k["avg_eff_score"] = [material_data.Score.mean(), ] * len(co2eff)
